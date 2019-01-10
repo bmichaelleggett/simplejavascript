@@ -1,10 +1,10 @@
 var Car = function() {
 			this.wheels = 4;
 			this.engine = "8-cylinder"
-			this.seats = 5;
+			this.seats = 5;			//constant attributes of the object
 		};
 
 		var myCar = new Car();
-		myCar.nickname = 'Smoother';
+		myCar.nickname = 'Smoother';			//variable attribute of the object
 
 		console.log(myCar.nickname + " has " + myCar.wheels + " wheels and a/an " + myCar.engine + " engine")
