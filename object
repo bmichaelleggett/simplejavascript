@@ -1,0 +1,14 @@
+<html>
+<head>
+	<title>Program</title>
+	<script>
+
+		let person = new Object();
+
+		person = {name:"Ray Allen", age:"41"}
+
+		console.log(person.name + ' is ' + person.age + ' years old');
+
+	</script>
+</head>
+</html>
