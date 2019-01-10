@@ -1,5 +1,5 @@
 var Car = function() {
-			this.wheels =4;
+			this.wheels = 4;
 			this.engine = "8-cylinder"
 			this.seats = 5;
 		};
