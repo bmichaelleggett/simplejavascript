@@ -1,0 +1,20 @@
+<html>
+<head>
+	<title>Program</title>
+	<script>
+
+	function go(name, age){
+		console.log(name)
+		console.log(age)
+	}
+
+	go('ray ray', 41)
+	go('Ray Lewis', 43)
+
+		
+
+
+
+	</script>
+</head>
+</html>
